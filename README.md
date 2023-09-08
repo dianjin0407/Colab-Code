@@ -1,2 +1,2 @@
 # Colab-Code
-any test \ small exercises are here
+any course related assignments and small exercises are here
