@@ -7,8 +7,7 @@
 The analysis focuses on Mevgal, a Greek yogurt brand, and its sales data for 7 products during the years 2020-2022. The heart of the analysis lies in the exploratory data analysis section, which delves into sales and distribution patterns, total shipped quantities, package sizes, sales trends over time, and sales forecasting. We conducted a comprehensive analysis of each product and a marketing-related analysis of the phenomena reflected in the data. It is a well-organized and comprehensive sales data analysis for the yogurt company in the three years, aimed at providing valuable insights into the company's decision-making process.
 
 Arthaus: Dian Jin, Kunjingyi Chen, Min Xu, Mitchell Wu, Sneha Ekka, Tanvi Sheth
-
-
+Date: 10/20/2023
 ---
 
 **Data Source**
@@ -34,6 +33,26 @@ The following table explains each feature in the original dataset.
 | 11| previous_year_daily_unit_returns_kg | The percentage of the products (in kg) that were shipped to selling points and were returned the previous year | % |
 | 12| points_of_distribution | The amount of sales representatives through which the product was sold to the market that day | / |
 | 13| previous_year_points_of_distribution | The amount of sales representatives through which the product was sold to the market for the same day in the previous year | / |
+---
+**Observation**
+
+
+
+---
+**Refernece**
+
+[1] I. Siniosoglou, K. Xouveroudis, V. Argyriou, T. Lagkas, S. K. Goudos, K. E. Psannis and P. Sarigiannidis,  "**Evaluating the Effect of Volatile Federated Timeseries on Modern DNNs: Attention over Long/Short  Memory**," in the 12th International Conference on Circuits and Systems Technologies (MOCAST  2023), April 2023, Accepted
+
+[2] Mevgal. MEVGAL. (2019, November 29). https://mevgal.com/
+
+[3] Mevgal Logo. (n.d.). Food | Farsons Group. https://www.farsons.com/en/food
+
+[4] National Center for Biotechnology Information, National Library of Medicine, **Cultural responses to the COVID-19 crisis in Greece: The first wave (March–May 2020)**. [Reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9845843/#:~:text=After%20September%20the%20situation%20worsened,7%2C000%20deaths%20in%20March%202021)
+
+[5] M. Soltanieh-ha, "**BA780 - Introduction to Data Anaytics**", Colab Notebooks, Fall 2023
+
+[6] Datacamp Modules
+
 
 
 ---
