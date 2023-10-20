@@ -6,8 +6,9 @@
 
 The analysis focuses on Mevgal, a Greek yogurt brand, and its sales data for 7 products during the years 2020-2022. The heart of the analysis lies in the exploratory data analysis section, which delves into sales and distribution patterns, total shipped quantities, package sizes, sales trends over time, and sales forecasting. We conducted a comprehensive analysis of each product and a marketing-related analysis of the phenomena reflected in the data. It is a well-organized and comprehensive sales data analysis for the yogurt company in the three years, aimed at providing valuable insights into the company's decision-making process.
 
-Arthaus: Dian Jin, Kunjingyi Chen, Min Xu, Mitchell Wu, Sneha Ekka, Tanvi Sheth
-Date: 10/20/2023
+**Arthaus**: Dian Jin, Kunjingyi Chen, Min Xu, Mitchell Wu, Sneha Ekka, Tanvi Sheth
+
+**Date**: 10/20/2023
 ---
 
 **Data Source**
@@ -33,10 +34,6 @@ The following table explains each feature in the original dataset.
 | 11| previous_year_daily_unit_returns_kg | The percentage of the products (in kg) that were shipped to selling points and were returned the previous year | % |
 | 12| points_of_distribution | The amount of sales representatives through which the product was sold to the market that day | / |
 | 13| previous_year_points_of_distribution | The amount of sales representatives through which the product was sold to the market for the same day in the previous year | / |
----
-**Observation**
-
-
 
 ---
 **Refernece**
@@ -52,8 +49,6 @@ The following table explains each feature in the original dataset.
 [5] M. Soltanieh-ha, "**BA780 - Introduction to Data Anaytics**", Colab Notebooks, Fall 2023
 
 [6] Datacamp Modules
-
-
 
 ---
 
