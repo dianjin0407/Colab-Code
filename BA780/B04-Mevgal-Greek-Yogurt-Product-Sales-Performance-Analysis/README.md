@@ -8,7 +8,6 @@ The analysis focuses on Mevgal, a Greek yogurt brand, and its sales data for 7 p
 
 
 **Authors**: Dian Jin, Kunjingyi Chen, Min Xu, Mitchell Wu, Sneha Ekka, Tanvi Sheth
-
 **Date**: 10/20/2023
 
 
