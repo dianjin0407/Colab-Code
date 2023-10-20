@@ -1,3 +1,5 @@
+![logo](https://github.com/dianjin0407/Fall-2023-Coding/assets/144171842/f0a255f5-8acd-4c2a-99f6-16e93ff32492)
+
 # Mevgal Greek Yogurt Product Sales Performance Analysis
 
 The analysis focuses on Mevgal, a Greek yogurt brand, and its sales data for 7 products during the years 2020-2022. The heart of the analysis lies in the exploratory data analysis section, which delves into sales and distribution patterns, total shipped quantities, package sizes, sales trends over time, and sales forecasting. We conducted a comprehensive analysis of each product and a marketing-related analysis of the phenomena reflected in the data. It is a well-organized and comprehensive sales data analysis for the yogurt company in the three years, aimed at providing valuable insights into the company's decision-making process.
