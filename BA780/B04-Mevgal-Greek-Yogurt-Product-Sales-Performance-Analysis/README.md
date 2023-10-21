@@ -19,23 +19,29 @@ Dairy Supply Chain Sales Dataset. Direct access link here: https://zenodo.org/re
 
 **Dataset Overview**
 
-The following table explains each feature in the original dataset.
+The following table explains the features of the clean dataset:
 
 |Index| Feature           | Description | Unit |
 |:----------------| :---------------- | :--------| :----: |
-|1| Day               |  day of the month   | / |
-|2| Month             |  month of the year  | / |
-|3| Year              |  year    | / |
-| 4| daily_unit_sales |  Daily sales - the amount of products, measured in units, that during that specific day were sold   | units |
-| 5| previous_year_daily_unit_sales |  Previous Year's sales - the amount of products, measured in units, that during that specific day were sold, the previous year  | units |
-| 6| percentage_difference_daily_unit_sales |  The percentage difference between the two above values  | % |
-| 7| daily_unit_sales_kg |  The amount of products, measured in kilograms, that during that specific day were sold  | kg |
-| 8| previous_year_daily_unit_sales_kg | Previous Year's sales - the amount of products, measured in kilograms, that during that specific day were sold, the previous year | kg |
-| 9|  percentage_difference_daily_unit_sales_kg | The percentage difference between the two above values | % |
-| 10|  daily_unit_returns_kg | The percentage of the products (in kg) that were shipped to selling points and were returned | %|
-| 11| previous_year_daily_unit_returns_kg | The percentage of the products (in kg) that were shipped to selling points and were returned the previous year | % |
-| 12| points_of_distribution | The amount of sales representatives through which the product was sold to the market that day | / |
-| 13| previous_year_points_of_distribution | The amount of sales representatives through which the product was sold to the market for the same day in the previous year | / |
+|1| product_code      | codes to differentiate between products    | / |
+|2| Day               |  day of the month   | / |
+|3| Month             |  month   | / |
+|4| Year              |  year    | / |
+|5| date             |  year-month-day   | / |
+| 6| daily_unit_sales |  Daily sales - the amount of products, measured in units, that during that specific day were sold   | units |
+| 7| previous_year_daily_unit_sales |  Previous Year's sales - the amount of products, measured in units, that during that specific day were sold the previous year  | units |
+| 8| percentage_difference_daily_unit_sales |  The percentage difference between the two above values  | % |
+| 9| daily_unit_sales_kg |  The amount of products, measured in kilograms, that during that specific day were sold  | kg |
+| 10| previous_year_daily_unit_sales_kg | Previous Year's sales - the amount of products, measured in kilograms, that during that specific day were sold, the previous year | kg |
+| 11|  percentage_difference_daily_unit_sales_kg | The percentage difference between the two above values | % |
+| 12|  daily_unit_returns_kg | The percentage of the products that were shipped to selling points and were returned | %|
+| 13| previous_year_daily_unit_returns_kg | The percentage of the products that were shipped to selling points and were returned the previous year | % |
+| 14| points_of_distribution | The amount of sales representatives through which the product was sold to the market for this year | / |
+| 15| previous_year_points_of_distribution | The amount of sales representatives through which the product was sold to the market for the same day for the previous year | / |
+| 16| total_shipped_kg | The amount of products, measured in kilograms, that during that specific day were shipped to sales representatives | kg |
+| 17| daily_unit_return_in_kg | The amount of products, measured in kilograms, that during that specific day were returned to the manufacturer | kg |
+| 18| package_size | weight in kg per unit | kg |
+| 19| month | month in number | / |
 
 ---
 **Refernece**
