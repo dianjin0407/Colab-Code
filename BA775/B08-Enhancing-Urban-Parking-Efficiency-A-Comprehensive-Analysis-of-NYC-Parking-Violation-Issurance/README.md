@@ -1,4 +1,12 @@
-#Problem Definition
+## Team 8
+Riya Gupta
+Chen He
+Dian Jin
+Yuchen Li
+Jiayun Liu
+Raiymbek Ordabayev
+---
+# Problem Definition
 
 This project seeks to delve into the NYC Department of Finance's parking violation data over the past 3 years, aiming to gain a comprehensive understanding of parking infractions in New York City. By doing so, we intend to provide valuable insights for policymakers and citizens alike.
 
